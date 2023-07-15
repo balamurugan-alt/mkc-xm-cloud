@@ -11,7 +11,7 @@ function App({ Component, pageProps }: AppProps<SitecorePageProps>): JSX.Element
   return (
     <>
       <Image
-        src="https://www.mccormick.com/-/media/project/oneweb/mccormick-us/frenchs/recipes/g/frenchs-green-bean-casserole-recipe.jpg?rev=9a25ddc01f14451cb27ba8fd5117d778&vd=20211118T124414Z&extension=webp&hash=12CABD4BD0BD4FEEDE462BAA5B50A59E"
+        src="https://www.mccormick.com/-/media/project/oneweb/mccormick-us/frenchs/recipes/g/frenchs-green-bean-casserole-recipe.jpg"
         alt="banner"
       />
       <h1>MKC - XM Cloud</h1>
